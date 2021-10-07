@@ -8,10 +8,13 @@ To run:
 
 
 Function: Goes through list of fighter links and collects fighter data.
+
 Data Collected: firstname, lastname, nickname, height, weight, reach, stance, record (wins, losses, draws), and if they're a current champion
+
 Implementation: The immediate goal is to create a chrome web extension that will display fighter statistics on user mouseover.
 Intended Audience: UFC fans, UFC betting enthusiasts 
-Future Implementation: The end goal is to create a (hopefully reliable) fighter model with the data collected by the crawler. 
+Future Implementation: The end goal is to create a (hopefully reliable) fighter model with the data collected by the crawler.
+
 To Fix/Add:
 - more usable data types
   - change height value from imperial string to double metric form 
