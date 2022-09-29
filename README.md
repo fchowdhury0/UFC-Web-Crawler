@@ -4,7 +4,7 @@ Parses the web and collects information for all fighters currently in contract w
 
 To run:
 
-   python crawler.py
+   $ python crawler.py
 
 
 Function: Goes through list of fighter links and collects fighter data.
